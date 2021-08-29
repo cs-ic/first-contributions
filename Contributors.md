@@ -1125,6 +1125,7 @@
 - rjaquez
 - [Lorenz Beyer](https://github.com/beyerl/)
 - [Shruti]
+- [Johan Libert]
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
 - [Owen Strength](https://github.com/owenstrength)
