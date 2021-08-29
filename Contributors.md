@@ -1126,6 +1126,7 @@
 - [Lorenz Beyer](https://github.com/beyerl/)
 - [Shruti]
 - [Johan Libert]
+- [Lelouch Vi Britannia]
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
 - [Owen Strength](https://github.com/owenstrength)
